@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Gabin Hounkanrin, on m'appelle</h1>
-<h3 align="center">Développeur Full Stack passionné et orienté détail, je m'attache à concevoir des applications robustes, sécurisées et axées sur l'expérience utilisateur. Avec un esprit analytique et une forte capacité à résoudre des problèmes complexes, j'aime m'attaquer à des projets ambitieux et jongler avec des technologies variées pour offrir des solutions innovantes et performantes. Mon approche rigoureuse, combinée à mon souci de perfection, me permet de livrer des produits de qualité, tout en restant adaptable et ouvert à l'amélioration continue. </h3>
+<h3 align="center">Développeur Full Stack passionné et orienté détail, je m'attache à concevoir des applications robustes, sécurisées et axées sur l'expérience utilisateur. </h3>
 
 - 💬 Ask me about **Vue & Laravel**
 
@@ -20,7 +20,7 @@
 
 #### Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-SQL%20Lite-333333?style=flat&logo=SQLlite)
+![SQLite](https://img.shields.io/badge/-SQL%20Lite-333333?style=flat&logo=SQLite)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 
 
